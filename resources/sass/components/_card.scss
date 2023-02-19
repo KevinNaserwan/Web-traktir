@@ -1,0 +1,16 @@
+.card {
+	background: color(bg, 4);
+  color: color(typography, 1);
+  border-color: color(bg, 1);
+
+  .card-body {
+    .form-control {
+      background-color: color(bg, 4);
+      color: color(typography, 1);
+      border-color: color(bg, 1);
+    }
+    .form-control::active {
+      background-color: color(bg, 3);
+    }
+  }
+}

@@ -1,0 +1,12 @@
+.nav-pills {
+    --bs-nav-pills-link-active-bg: #{color(bg, 5)};
+  }
+
+.nav-link {
+    margin-top: 0.5rem;
+
+    &:hover {
+        background-color: color(bg, 4);
+    }
+}
+
