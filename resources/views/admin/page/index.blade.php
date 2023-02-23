@@ -27,7 +27,12 @@
                 </ul>
                 <div class="tab-content" id="myTabContent">
                     <div class="tab-pane fade show active" id="home-tab-pane" role="tabpanel" aria-labelledby="home-tab"
-                        tabindex="0">...</div>
+                        tabindex="0">
+                        <div class="content text-sm font-normal col-md-2 mt-3">
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae natus nisi quisquam nam velit
+                                ullam tempore quia eum ad accusamus.</p>
+                        </div>
+                    </div>
                     <div class="tab-pane fade" id="profile-tab-pane" role="tabpanel" aria-labelledby="profile-tab"
                         tabindex="0">...</div>
                     <div class="tab-pane fade" id="contact-tab-pane" role="tabpanel" aria-labelledby="contact-tab"
